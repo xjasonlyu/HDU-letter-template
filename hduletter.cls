@@ -93,10 +93,10 @@
 }
 
 % \savebox{\departmentfoot}[\textwidth][c]{\ixcmrmn
-%      HDU $\cdot$
-%      ~School of Cyberspace $\cdot$
-%      ~No.1158, Baiyang Street, No.2 Aveune $\cdot$
-%      ~Hangzhou, Zhejiang, P.R. China, 310018
+%     HDU $\cdot$
+%     ~School of Cyberspace $\cdot$
+%     ~1158 No.2 Street, Xiasha Higher Education Zone $\cdot$
+%     ~Hangzhou, China, 310018
 % }
 
 %\savebox{\emptyfoot}[\textwidth][c]{\ixcmrmn
